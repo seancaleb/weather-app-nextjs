@@ -9,6 +9,7 @@ export default function Home() {
           http-equiv="Content-Security-Policy"
           content="upgrade-insecure-requests"
         />
+        <title>Weather App | SN</title>
       </Head>
       <App />
     </>
