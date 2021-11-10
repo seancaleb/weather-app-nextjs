@@ -1,3 +1,8 @@
+# A Weather Application made with Next.js
+
+This project is made using Next.js and Tailwind CSS which uses the WeatherAPI to fetch weather related data.
+More about the [WeatherAPI](https://www.weatherapi.com). Check out the official docs [here](https://www.weatherapi.com/docs/).
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
