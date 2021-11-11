@@ -41,7 +41,7 @@ const Search = ({ handleSubmit, setWeatherData, loading }) => {
         <input
           type="text"
           placeholder="Search location by city..."
-          className="px-2 py-2 outline-none placeholder-gray-200 text-md placeholder-opacity-70 w-full border-b border-gray-200 border-opacity-70  text-white bg-transparent input-custom tracking-wide font-light"
+          className="px-2 py-1 lg:py-2 outline-none placeholder-gray-200 text-md placeholder-opacity-70 w-full border-b border-gray-200 border-opacity-70  text-white bg-transparent input-custom tracking-wide font-light"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           ref={inputRef}

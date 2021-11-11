@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <Head>
         <meta
-          http-equiv="Content-Security-Policy"
+          httpEquiv="Content-Security-Policy"
           content="upgrade-insecure-requests"
         />
         <title>Weather App | SN</title>
