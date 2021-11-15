@@ -76,12 +76,12 @@ body {
 
 @media screen and (min-width: 80em) {
   body {
-    overflow-y: hidden;
+    overflow-x: hidden;
   }
 }
 
 ::-webkit-scrollbar {
-  width: 6px;
+  width: 0px;
 }
 
 ::-webkit-scrollbar-track {
